@@ -105,7 +105,12 @@
 </section>
 
 <footer>
-    &copy; 2025 DominexLuxury. All rights reserved.
+  <p>&copy; 2025 DominexLuxury. All rights reserved.</p>
+  <p>
+    <a href="https://instagram.com/dominexluxury" target="_blank" style="color:#ff9800; text-decoration:none;">
+      Follow us on Instagram
+    </a>
+  </p>
 </footer>
 
 </body>
