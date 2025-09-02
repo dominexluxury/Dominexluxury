@@ -85,7 +85,7 @@
 <section class="hero">
     <h2>Promote Your Startup in Style</h2>
     <p>We help luxury and new businesses grow with stunning digital presence and promotion strategies.</p>
-    <button class="btn" onclick="window.location.href='signup.html'">Get Started</button>
+    <button onclick="window.location.href='signup.html'">Get Started</button>
 </section>
 
 <section id="about">
